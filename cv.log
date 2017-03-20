@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2017.1.14)  18 MAR 2017 20:57
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2017.1.14)  20 MAR 2017 22:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -718,50 +718,21 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 48.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 48.
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family 'EBGaramond(1)' created for font 'EBGaramond' with options
-. [Mapping=tex-text,Ligatures=TeX,Path = fonts/eb-garamond/,Extension =
-. .ttf,UprightFont = *12-Regular,BoldFont = *08-Regular,ItalicFont =
-. *12-Italic,BoldItalicFont = *08-Italic,VerticalPosition=Superior].
-. 
-. This font family consists of the following NFSS series/shapes:
-. - 'normal' (m/n) with NFSS spec.:
-. <->"[fonts/eb-garamond/EBGaramond12-Regular.ttf]/OT:script=latn;language=DFLT
-;mapping=tex-text;mapping=tex-text;+sups;"
-. - 'small caps'  (m/sc) with NFSS spec.:
-. <->"[fonts/eb-garamond/EBGaramond12-Regular.ttf]/OT:script=latn;language=DFLT
-;mapping=tex-text;mapping=tex-text;+sups;+smcp;"-
-. 'bold' (bx/n) with NFSS spec.:
-. <->"[fonts/eb-garamond/EBGaramond08-Regular.ttf]/OT:script=latn;language=DFLT
-;mapping=tex-text;mapping=tex-text;+sups;"
-. - 'bold small caps'  (bx/sc) with NFSS spec.:
-. <->"[fonts/eb-garamond/EBGaramond08-Regular.ttf]/OT:script=latn;language=DFLT
-;mapping=tex-text;mapping=tex-text;+sups;+smcp;"-
-. 'italic' (m/it) with NFSS spec.:
-. <->"[fonts/eb-garamond/EBGaramond12-Italic.ttf]/OT:script=latn;language=DFLT;
-mapping=tex-text;mapping=tex-text;+sups;"
-. - 'italic small caps'  (m/itsc) with NFSS spec.:
-. <->"[fonts/eb-garamond/EBGaramond12-Italic.ttf]/OT:script=latn;language=DFLT;
-mapping=tex-text;mapping=tex-text;+sups;+smcp;"-
-. 'bold italic' (bx/it) with NFSS spec.:
-. <->"[fonts/eb-garamond/EBGaramond08-Italic.ttf]/OT:script=latn;language=DFLT;
-mapping=tex-text;mapping=tex-text;+sups;"
-. - 'bold italic small caps'  (bx/itsc) with NFSS spec.:
-. <->"[fonts/eb-garamond/EBGaramond08-Italic.ttf]/OT:script=latn;language=DFLT;
-mapping=tex-text;mapping=tex-text;+sups;+smcp;"
-.................................................
- [1
 
-] [2] (./cv.aux) ) 
+Overfull \hbox (3.87032pt too wide) in paragraph at lines 57--68
+[][] 
+ []
+
+[1
+
+] (./cv.aux) ) 
 Here is how much of TeX's memory you used:
- 15708 strings out of 493591
- 303870 string characters out of 6143546
- 318400 words of memory out of 5000000
- 19004 multiletter control sequences out of 15000+600000
- 3848 words of font info for 40 fonts, out of 8000000 for 9000
+ 15674 strings out of 493591
+ 301631 string characters out of 6143546
+ 316400 words of memory out of 5000000
+ 18977 multiletter control sequences out of 15000+600000
+ 3808 words of font info for 35 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
- 48i,11n,61p,10383b,407s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 48i,11n,61p,10383b,228s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on cv.pdf (2 pages).
+Output written on cv.pdf (1 page).
