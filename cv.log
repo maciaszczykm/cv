@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2017.1.14)  20 MAR 2017 22:49
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2017.1.14)  22 MAR 2017 19:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -718,7 +718,12 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 44.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 44.
- [1
+
+Overfull \hbox (0.72011pt too wide) in paragraph at lines 65--75
+[][] 
+ []
+
+[1
 
 ] (./cv.aux) ) 
 Here is how much of TeX's memory you used:
