@@ -1,2 +1,2 @@
-# CV
-Personal curriculum vitae.
+# Resume
+My current resume.
