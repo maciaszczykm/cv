@@ -1,7 +1,7 @@
+# TeX files
 *.aux
 *.glo
 *.idx
-*.log
 *.toc
 *.ist
 *.acn
@@ -20,6 +20,8 @@
 *.mtc
 *.mtc1
 *.out
+*.log
 *.synctex.gz
 
+# OS files
 .DS_Store
